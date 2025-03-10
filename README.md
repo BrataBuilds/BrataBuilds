@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souryabrata Goswami</h1>
-I am a passionate developer from Kolkata, India, currently pursuing a degree in CSE. One can say that curiosity is my passion, as long as I get to learn new things and expand my knowledge I stay satisfied. Beyond coding, I have a keen interest in Astronomy, Psychology, and all things tech related.
+<h3 align=left> 
+I am a passionate developer from Kolkata, India, currently pursuing a degree in CSE. One can say that curiosity is my passion, as long as I get to learn new things and expand my knowledge I stay satisfied. Beyond coding, I have a keen interest in Astronomy, Psychology, and all things tech related.</h3> <h3 align = right><img src="https://komarev.com/ghpvc/?username=BrataBuilds&label=Profile%20views&color=0e75b6&style=flat" alt="BrataBuilds" /> </h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrataBuilds&label=Profile%20views&color=0e75b6&style=flat" alt="BrataBuilds" /> </p> -->
 
 
 - 🔭 I’m currently working on [ForgeTube](https://github.com/MLSAKIIT/ForgeTube) and a bunch of other projects.
