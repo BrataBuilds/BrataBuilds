@@ -6,7 +6,7 @@ I am a passionate developer from Kolkata, India, currently pursuing a degree in 
 
 - 🔭 I’m currently working on [ForgeTube](https://github.com/MLSAKIIT/ForgeTube) and a bunch of other projects.
 
-- 🌱 I’m currently learning **Deep Learning, PyTorch and C.**
+- 🌱 I’m currently learning **Deep Learning, PyTorch, C and VLSI Design & Systems Engineering**
 
 - 👯 I’m looking to collaborate on **anything ML related that can expand my knowledge and knowhow**
 
