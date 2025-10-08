@@ -4,11 +4,11 @@ I am a passionate developer from Kolkata, India, currently pursuing a degree in 
 
 
 
-- 🔭 I’m currently working on [ForgeTube](https://github.com/MLSAKIIT/ForgeTube) and a bunch of other projects.
+- 🔭 I’m currently working on [Pixly](https://github.com/MLSAKIIT/pixly) and a bunch of other projects.
 
-- 🌱 I’m currently learning **Deep Learning, PyTorch, C and VLSI Design & Systems Engineering**
+- 🌱 I’m currently learning **Deep Learning, PyTorch and C.**
 
-- 👯 I’m looking to collaborate on **anything ML related that can expand my knowledge and knowhow**
+- 👯 I’m looking to collaborate on **anything Machine Learning and Deep learning related that can expand my knowledge and knowhow**
 
 - 😺 I like cats.
 
