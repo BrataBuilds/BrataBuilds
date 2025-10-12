@@ -58,6 +58,3 @@ I am a passionate developer from Kolkata, India, currently pursuing a degree in 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432" alt="Google Colab" width="40" height="40"/>
 </table>
-
-
-<div align = center><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrataBuilds&show_icons=true&locale=en&layout=compact" alt="BrataBuilds" /></div>
