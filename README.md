@@ -12,6 +12,8 @@ I am a passionate developer from Kolkata, India, currently pursuing a degree in 
 
 - 😺 I like cats.
 
+[![An image of @bratabuilds's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bratabuilds)](https://holopin.io/@bratabuilds)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/souryabrata-goswami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Souryabrata Goswami" height="30" width="40" /></a>
