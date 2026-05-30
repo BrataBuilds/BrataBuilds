@@ -19,9 +19,13 @@ Hello there, I am a computer science student from Kolkata, West Bengal, India, c
 </p>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=BrataBuilds&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=BrataBuilds&theme=dark&hide_border=true)<br/>
+
+## 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=BrataBuilds&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195" />
+  <img src="https://streak-stats.demolab.com/?user=BrataBuilds&theme=dark&hide_border=true" alt="GitHub Streak" height="195" />
+</p>
 
 [![An image of @bratabuilds's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bratabuilds)](https://holopin.io/@bratabuilds)
 <h3 align="left">Languages and Tools:</h3>
