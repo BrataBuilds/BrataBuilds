@@ -1,25 +1,29 @@
 <h1 align="center">Hi 👋, I'm Souryabrata Goswami</h1>
-<h3 align=left> 
-I am a passionate developer from Kolkata, India, currently pursuing a degree in CSE. One can say that curiosity is my passion, as long as I get to learn new things and expand my knowledge I stay satisfied. Beyond coding, I have a keen interest in Astronomy, Psychology, and all things tech related.</h3> <h3 align = right><img src="https://komarev.com/ghpvc/?username=BrataBuilds&label=Profile%20views&color=0e75b6&style=flat" alt="BrataBuilds" /> </h3>
+<h4 align=left> 
+Hello there, I am a computer science student from Kolkata, West Bengal, India, currently studying at KIIT. <br>One can say that curiosity is my passion, as long as I get to learn new things and expand my knowledge I stay satisfied. <br>Beyond coding, I have a keen interest in astronomy, psychology, and cooking, oh and I really like cats :3.<br></h3> <h3 align = left><img src="https://komarev.com/ghpvc/?username=BrataBuilds&label=Profile%20views&color=0e75b6&style=flat" alt="BrataBuilds" /> </h3>
 
-
-
-- 🔭 I’m currently working on [Pixly](https://github.com/MLSAKIIT/pixly) and a bunch of other projects.
-
-- 🌱 I’m currently learning **Deep Learning, PyTorch and C.**
-
-- 👯 I’m looking to collaborate on **anything Machine Learning and Deep learning related that can expand my knowledge and knowhow**
-
-- 😺 I like cats.
-
-[![An image of @bratabuilds's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bratabuilds)](https://holopin.io/@bratabuilds)
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/souryabrata-goswami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Souryabrata Goswami" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/souryabrata2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/souryabrata-goswami/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/souryabrata2" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" />
+  </a>
+  <a href="mailto:souryabrata2@gmail.com" target="_blank">
+    <img align="center" src="https://api.iconify.design/mdi/email.svg?color=%23D14836" alt="Email" height="30" width="40" />
+  </a>
+  <a href="https://bratabuilds.github.io" target="_blank">
+    <img align="center" src="https://api.iconify.design/mdi/web.svg?color=%232563EB" alt="Website" height="30" width="40" />
+  </a>
 </p>
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=BrataBuilds&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=BrataBuilds&theme=dark&hide_border=true)<br/>
+
+[![An image of @bratabuilds's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bratabuilds)](https://holopin.io/@bratabuilds)
 <h3 align="left">Languages and Tools:</h3>
 
 <table border="1">
@@ -28,6 +32,7 @@ I am a passionate developer from Kolkata, India, currently pursuing a degree in 
         <td>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>   
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
         </td>
     </tr>
     <tr>
@@ -51,12 +56,14 @@ I am a passionate developer from Kolkata, India, currently pursuing a degree in 
         <td><b>Databases</b></td>
         <td>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/> 
         </td>
     </tr>
     <tr>
         <td><b>Development</b></td>
         <td>
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40"/>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432" alt="Google Colab" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" alt="Google Colab" width="40" height="40"/>
 </table>
