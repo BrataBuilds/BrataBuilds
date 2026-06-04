@@ -2,6 +2,8 @@
 <h4 align=left> 
 Hello there, I am a computer science student from Kolkata, West Bengal, India, currently studying at KIIT. <br>One can say that curiosity is my passion, as long as I get to learn new things and expand my knowledge I stay satisfied. <br>Beyond coding, I have a keen interest in astronomy, psychology, and cooking, oh and I really like cats :3.<br></h3> <h3 align = left><img src="https://komarev.com/ghpvc/?username=BrataBuilds&label=Profile%20views&color=0e75b6&style=flat" alt="BrataBuilds" /> </h3>
 
+[My Personal Website](https://bratabuilds.github.io)
+
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/souryabrata-goswami/" target="_blank">
@@ -12,9 +14,6 @@ Hello there, I am a computer science student from Kolkata, West Bengal, India, c
   </a>
   <a href="mailto:souryabrata2@gmail.com" target="_blank">
     <img align="center" src="https://api.iconify.design/mdi/email.svg?color=%23D14836" alt="Email" height="30" width="40" />
-  </a>
-  <a href="https://bratabuilds.github.io" target="_blank">
-    <img align="center" src="https://api.iconify.design/mdi/web.svg?color=%232563EB" alt="Website" height="30" width="40" />
   </a>
 </p>
 
