@@ -1,0 +1,25 @@
+name: Update readme image caches
+
+on:
+  schedule:
+    # 12:00 Midnight IST converts to 18:30 (6:30 PM) UTC of the previous day
+    - cron: '30 18 * * *'
+  # Allows manual execution of the workflow directly from the Actions tab
+  workflow_dispatch: 
+
+jobs:
+  purge-camo-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Flush GitHub Camo Cache for Stats Card
+        run: |
+          echo "Purging GitHub Stats Card Cache"
+          curl -X PURGE "https://camo.githubusercontent.com/caafddddf1532d171f19c0d1d92b21ab233d6bb1bcd2eb9bd6af16936570ad09/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d42726174614275696c64732673686f775f69636f6e733d74727565267468656d653d6461726b26686964655f626f726465723d7472756526636f756e745f707269766174653d747275652672616e6b5f69636f6e3d6769746875622663616368655f7365636f6e64733d383634303026686964653d7072732c697373756573"
+          
+      - name: Flush GitHub Camo Cache for Streak Card
+        run: |
+          echo "Purging GitHub Streaks Card Cache..."
+          curl -X PURGE "https://camo.githubusercontent.com/b9a09cb4ab667dd928b16856f513b44cd9d7f844dc2acb4b48df53d8280dc520/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d42726174614275696c6473267468656d653d6461726b26686964655f626f726465723d74727565"
+
+      - name: Output Status
+        run: echo "All caches successfully purged."
