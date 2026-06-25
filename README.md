@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souryabrata Goswami</h1>
 <h4 align=left> 
-Hello there, I am a computer science student from Kolkata, West Bengal, India, currently studying at KIIT. <br>One can say that curiosity is my passion, as long as I get to learn new things and expand my knowledge I stay satisfied. <br>Beyond coding, I have a keen interest in astronomy, psychology, and cooking, oh and I really like cats :3.<br></h3> <h3 align = left><img src="https://komarev.com/ghpvc/?username=BrataBuilds&label=Profile%20views&color=0e75b6&style=flat" alt="BrataBuilds" /> </h3>
+Hello there, I am a computer science student from Kolkata, West Bengal, India, currently studying at KIIT. <br>One can say that curiosity is my passion, as long as I get to learn new things and expand my knowledge I stay satisfied. <br>Beyond coding, I have a keen interest in astronomy, psychology, and cooking, oh and I really like cats :3.
+<br></h3> <h3 align = left><img src="https://komarev.com/ghpvc/?username=BrataBuilds&label=Profile%20views&color=0e75b6&style=flat" alt="BrataBuilds" /> </h3>
 
 [My Personal Website](https://bratabuilds.github.io)
 
@@ -14,6 +15,9 @@ Hello there, I am a computer science student from Kolkata, West Bengal, India, c
   </a>
   <a href="mailto:souryabrata2@gmail.com" target="_blank">
     <img align="center" src="https://api.iconify.design/mdi/email.svg?color=%23D14836" alt="Email" height="30" width="40" />
+  </a>
+  <a href="https://wakatime.com/@BrataBuilds" target="_blank">
+    <img align="center" src="https://wakatime.com/badge/user/1ffa3ab1-e91c-4e0a-8f54-c0eca8776f1b.svg?style=social" alt="Email" height="30" width="250" />
   </a>
 </p>
 
